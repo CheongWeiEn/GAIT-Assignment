@@ -1,0 +1,7 @@
+{
+  "name": "StorySpark Engine",
+  "description": "A magical AI-powered storybook creator that transforms any topic into a personalized 5-page educational journey for children, featuring interactive narration and custom illustrations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
